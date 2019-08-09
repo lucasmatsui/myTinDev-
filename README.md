@@ -1,4 +1,4 @@
-#TinDeb Semana OmniStack8.0 - Com validação de usuário
+#TinDev Semana OmniStack8.0 - Com validação de usuário
 
 Opá Dev, tranquilo ? Estou aprendendo React.js e fiz uma validaçãozinha se o usuário não existir na API do Github ele mostrar um alert.
 
